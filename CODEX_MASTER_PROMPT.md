@@ -27,6 +27,15 @@ Primary CTA REQUEST A QUOTE; secondary CALL NOW.
 Separate residential/commercial forms capturing pest concern, service location, property/facility type, urgency, contact details, consent; commercial adds site count, facility size and recurring service interest. Secure server-side validation, anti-spam, privacy-aware handling; no fake success messages.
 
 ## Technical and SEO
+
+**Editorial standard · Google E-E-A-T**
+
+Start with the decision the reader came to make. Where first-hand experience helps, use work the publisher can document and share. Identify who produced or reviewed technical guidance where readers would expect it, and explain the method when it affects interpretation. Support consequential claims with the most relevant original source. Claim outside recognition or credentials only when readers can verify them.
+
+Identify the applicable jurisdiction and current public authority or product label for pesticide and wildlife claims. Seek qualified review where health or safety is involved. Publish technician experience, licensing and treatment outcomes only when verified for that service and region.
+
+At content review, trace a material claim on a representative page back to its source. Correct, qualify or omit an unsupported claim, including in translated copy and structured data where present. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 Use a maintainable static-first modern stack deployable to WHC.ca Pro hosting; document build and cPanel deployment requirements. Responsive components, semantic HTML, EN/FR routing, canonical URLs, hreflang, sitemap, robots.txt, Open Graph, relevant schema.org structured data without invented ratings. Unique titles/descriptions and useful FAQs. Avoid doorway pages and duplicated city text.
 
 ## Compliance
